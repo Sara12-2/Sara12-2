@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,30&height=280&section=header&text=Sara%20Manzoor&fontSize=65&fontAlignY=35&desc=Full%20Stack%20Developer%20🔥%20AI/ML%20Enthusiast%20🔥%20CS%20Student&descAlignY=55&animation=fadeIn&fontColor=white" width="100%"/>
 </p>
-
 <!--- Animated Typing Effect --->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&width=900&lines=🌟+Welcome+to+My+GitHub+Profile+🌟;💻+Full+Stack+Web+Developer;🤖+AI%2FML+%7C+Deep+Learning+%7C+NLP+%7C+CV;🎓+CS+Student+%7C+CGPA+4.0%2F4.0;🥈+2nd+Position+in+ICS+%7C+DG+Khan+Board;💻+CM+Merit+Award+%7C+Laptop+Recipient;🛵+EZ+Scooty+Award+%7C+Merit+Scholarship;🏆+Softec+'26+%7C+Lahore+Workshop;📜+30%2B+Certifications+%26+Badges" alt="Typing Animation" />
