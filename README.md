@@ -138,11 +138,6 @@ I'm a passionate **Computer Science student** at the University of Layyah, maint
 
 ## 📊 GitHub Analytics
 
-<!--- Contribution Snake Animation --->
-<p align="center">
-  <img src="https://github.com/Sara12-2/Sara12-2/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara12-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&cache_seconds=86400" width="45%" />
 </p>
@@ -154,31 +149,6 @@ I'm a passionate **Computer Science student** at the University of Layyah, maint
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sara12-2&theme=radical&no-frame=true&row=1&column=6" width="90%" />
 </p>
-
-> **⚙️ Snake Setup:** Go to your GitHub repo `Sara12-2/Sara12-2` → Actions → Add this workflow to auto-generate the snake animation:
-> ```yaml
-> # .github/workflows/snake.yml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 0 * * *"}]
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Sara12-2
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
