@@ -9,29 +9,81 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sara12-2&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Sara12-2&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## About Me
+## 🙋‍♀️ About Me
 
-I'm a Computer Science student at the **University of Layyah** with a **4.0/4.0 CGPA**, currently interning in **Web Development** and having completed an **ML Internship**. My goal is to build intelligent full-stack web applications that integrate ML, NLP, Computer Vision, and Deep Learning — bringing AI directly into production-ready products.
+I'm a passionate **Computer Science student** at the University of Layyah, maintaining a perfect **4.0/4.0 CGPA** while actively building real-world expertise through internships in both **Web Development** and **Machine Learning**. I thrive at the intersection of intelligent systems and user-facing applications — crafting AI-powered, full-stack products that are not just functional, but genuinely impactful. Whether it's training a deep learning model or designing a seamless REST API, I bring the same dedication to every layer of the stack.
 
-- 🎓 **BS Computer Science** — University of Layyah | Semester 4 | CGPA: 4.0/4.0
-- 💼 **Web Development Intern** — Full Stack (Current)
-- 💼 **ML Intern** — Completed
-- 🏆 **2nd Position in ICS** — Dera Ghazi Khan Board
-- 💻 **Chief Minister Merit Award** — Laptop Distribution Scheme
-- 🛵 **EZ Scooty Award** — Merit-Based Scholarship
-- 🏅 **Softec '26 Participant** — FAST-NUCES, Lahore
-- 📍 Punjab, Layyah, Pakistan
+<table>
+  <tr>
+    <td>🎓 <b>BS Computer Science</b></td>
+    <td>University of Layyah | Semester 4 | CGPA: 4.0/4.0</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Web Development Intern</b></td>
+    <td>Full Stack — Current</td>
+  </tr>
+  <tr>
+    <td>💼 <b>ML Intern</b></td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>🏆 <b>2nd Position in ICS</b></td>
+    <td>Dera Ghazi Khan Board</td>
+  </tr>
+  <tr>
+    <td>💻 <b>Chief Minister Merit Award</b></td>
+    <td>Laptop Distribution Scheme</td>
+  </tr>
+  <tr>
+    <td>🛵 <b>EZ Scooty Award</b></td>
+    <td>Merit-Based Scholarship</td>
+  </tr>
+  <tr>
+    <td>🏅 <b>Softec '26 Participant</b></td>
+    <td>FAST-NUCES, Lahore</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Punjab, Layyah, Pakistan</td>
+  </tr>
+</table>
+
+---
+
+## 🌱 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-4ECDC4?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-FFD700?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+---
+
+## 💡 Soft Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_Problem_Solving-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📖_Research_Oriented-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Team_Collaboration-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Goal_Driven-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Fast_Learner-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💬_Communication-0D1117?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Full Stack Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -107,24 +159,26 @@ I'm a Computer Science student at the **University of Layyah** with a **4.0/4.0 
 
 ## 🎯 Future Goal
 
-> Building **AI-powered full stack web applications** that combine modern web development with **ML · NLP · Computer Vision · Deep Learning** — making intelligent systems accessible through clean, production-ready interfaces.
+<div align="center">
+
+| | |
+|---|---|
+| 🌐 | Build **AI-integrated full-stack websites** that bring Machine Learning, Deep Learning, Computer Vision, and NLP directly into real, production-ready web applications — making intelligent systems accessible to everyone through clean and modern interfaces. |
+
+</div>
+
+> *"My goal is simple — integrate AI into the web, and make it work beautifully."*
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sara12-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Sara12-2&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=4ECDC4&dates=888888" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sara12-2&theme=react-dark&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFD700&area=true&hide_border=true" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara12-2&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&langs_count=6" width="38%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sara12-2&theme=tokyonight&utcOffset=5" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sara12-2&theme=tokyonight" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=Sara12-2&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=4ECDC4&dates=888888" width="60%" />
 </p>
 
 <p align="center">
@@ -135,68 +189,100 @@ I'm a Computer Science student at the **University of Layyah** with a **4.0/4.0 
 
 ## 📜 Certifications
 
+<div align="center">
+
+### 🟠 &nbsp; Kaggle
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /><br/>
-      <b>Kaggle Courses</b><br/>
-      <sub>
-        ✅ Intro to Machine Learning<br/>
-        ✅ Pandas<br/>
-        ✅ Data Cleaning<br/>
-        ✅ Intro to Deep Learning<br/>
-        ✅ Deep Learning
-      </sub>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Intro%20to%20Machine%20Learning-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/DataCamp-2EC866?style=for-the-badge&logo=datacamp&logoColor=white" /><br/>
-      <b>DataCamp</b><br/>
-      <sub>
-        ✅ APIs in Python<br/>
-        ✅ Prompt Engineering<br/>
-        ✅ Supervised Learning with Scikit-Learn
-      </sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
-      <b>Google — Coursera</b><br/>
-      <sub>
-        ✅ Foundations of Data Science<br/>
-        ✅ Data, Data Everywhere<br/>
-        ✅ Introduction to Git & GitHub<br/>
-        ✅ The Nuts & Bolts of ML<br/>
-        ✅ Start Writing Prompts like a Pro
-      </sub>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Pandas-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3"><br/></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Data%20Cleaning-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Intro%20to%20Deep%20Learning-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Innervista-FF6B6B?style=for-the-badge&logo=academia&logoColor=white" /><br/>
-      <b>Innervista</b><br/>
-      <sub>✅ Machine Learning</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/UniAthena-4ECDC4?style=for-the-badge&logo=book&logoColor=white" /><br/>
-      <b>UniAthena</b><br/>
-      <sub>
-        ✅ Basics of ML<br/>
-        ✅ ML Algorithms
-      </sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Simplilearn-FFD700?style=for-the-badge&logo=simplilearn&logoColor=black" /><br/>
-      <b>Simplilearn</b><br/>
-      <sub>✅ Intro to Prompt Engineering</sub>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Deep%20Learning-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <i>📜 30+ Certifications & Badges · All available upon request</i>
-</p>
+---
+
+### 🟢 &nbsp; DataCamp
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/APIs%20in%20Python-✔%20Completed-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-✔%20Completed-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Supervised%20Learning%20with%20Scikit--Learn-✔%20Completed-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔵 &nbsp; Google — Coursera
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Foundations%20of%20Data%20Science-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Data%2C%20Data%20Everywhere-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Introduction%20to%20Git%20%26%20GitHub-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Nuts%20%26%20Bolts%20of%20ML-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Start%20Writing%20Prompts%20like%20a%20Pro-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚪ &nbsp; Other Platforms
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Innervista-Machine%20Learning%20✔-6C63FF?style=for-the-badge&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/UniAthena-ML%20Basics%20%26%20Algorithms%20✔-4ECDC4?style=for-the-badge&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Simplilearn-Intro%20to%20Prompt%20Engineering%20✔-FFD700?style=for-the-badge&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+<i>📜 <b>30+ Certifications & Badges</b> · All available upon request</i>
+
+</div>
 
 ---
 
@@ -226,7 +312,7 @@ I'm a Computer Science student at the **University of Layyah** with a **4.0/4.0 
   </a>
 </p>
 
-<p align="center"><i>Open to collaborations, internships, and research opportunities.</i></p>
+<p align="center"><i>✨ Open to collaborations, internships, and research opportunities.</i></p>
 
 ---
 
