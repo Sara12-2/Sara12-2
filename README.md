@@ -5,18 +5,18 @@
 
 <!--- Typing Effect --->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&width=850&lines=Full+Stack+Web+Developer+%7C+Flask+%2B+Python;AI%2FML+%7C+NLP+%7C+Computer+Vision+%7C+Deep+Learning;Building+Intelligent%2C+Full+Stack+Web+Applications;BS+Computer+Science+%7C+CGPA+4.0%2F4.0+%7C+University+of+Layyah;ML+Intern+%7C+Web+Dev+Intern+%7C+Open+to+Opportunities" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&width=850&lines=Full+Stack+Web+Developer+%7C+Flask+%2B+Python;AI%2FML+%7C+NLP+%7C+Computer+Vision+%7C+Deep+Learning;Building+Intelligent%2C+Full+Stack+Web+Applications;BS+Computer+Science+%7C+CGPA+4.0%2F4.0+%7C+University+of+Layyah;Web+Dev+Intern+%7C+ML+Intern+%7C+Open+to+Opportunities" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sara12-2&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Sara12-2&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-I'm a passionate **Computer Science student** at the University of Layyah, maintaining a perfect **4.0/4.0 CGPA** while actively building real-world expertise through internships in both **Web Development** and **Machine Learning**. I thrive at the intersection of intelligent systems and user-facing applications — crafting AI-powered, full-stack products that are not just functional, but genuinely impactful. Whether it's training a deep learning model or designing a seamless REST API, I bring the same dedication to every layer of the stack.
+I'm a Computer Science student at the **University of Layyah** with a **4.0/4.0 CGPA**, currently interning in **Web Development** and having completed an **ML Internship**. My goal is to build intelligent full-stack web applications that integrate ML, NLP, Computer Vision, and Deep Learning — bringing AI directly into production-ready products.
 
 - 🎓 **BS Computer Science** — University of Layyah | Semester 4 | CGPA: 4.0/4.0
 - 💼 **Web Development Intern** — Full Stack (Current)
@@ -26,31 +26,6 @@ I'm a passionate **Computer Science student** at the University of Layyah, maint
 - 🛵 **EZ Scooty Award** — Merit-Based Scholarship
 - 🏅 **Softec '26 Participant** — FAST-NUCES, Lahore
 - 📍 Punjab, Layyah, Pakistan
-
----
-
-## 🌱 Currently Exploring
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformer_Architecture-6C63FF?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_Databases-4ECDC4?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
-</p>
-
----
-
-## 💡 Soft Skills & Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🧠_Problem_Solving-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📖_Research_Oriented-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤝_Team_Collaboration-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯_Goal_Driven-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Fast_Learner-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💬_Communication-0D1117?style=for-the-badge" />
-</p>
 
 ---
 
@@ -132,69 +107,96 @@ I'm a passionate **Computer Science student** at the University of Layyah, maint
 
 ## 🎯 Future Goal
 
-> By the end of 2025, I aim to deploy production-ready **AI-powered full-stack web applications** integrating **ML · NLP · Computer Vision · Deep Learning** — building systems that are not just intelligent, but accessible and impactful through clean, scalable interfaces.
+> Building **AI-powered full stack web applications** that combine modern web development with **ML · NLP · Computer Vision · Deep Learning** — making intelligent systems accessible through clean, production-ready interfaces.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara12-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&cache_seconds=86400" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sara12-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Sara12-2&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=4ECDC4&dates=888888" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sara12-2&theme=react-dark&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFD700&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara12-2&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&langs_count=6" width="38%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sara12-2&theme=tokyonight&utcOffset=5" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sara12-2&theme=radical&no-frame=true&row=1&column=6" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sara12-2&theme=tokyonight" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sara12-2&theme=radical&no-frame=true&row=1&column=6&margin-w=10" width="90%" />
 </p>
 
 ---
 
 ## 📜 Certifications
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /><br/>
+      <b>Kaggle Courses</b><br/>
+      <sub>
+        ✅ Intro to Machine Learning<br/>
+        ✅ Pandas<br/>
+        ✅ Data Cleaning<br/>
+        ✅ Intro to Deep Learning<br/>
+        ✅ Deep Learning
+      </sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/DataCamp-2EC866?style=for-the-badge&logo=datacamp&logoColor=white" /><br/>
+      <b>DataCamp</b><br/>
+      <sub>
+        ✅ APIs in Python<br/>
+        ✅ Prompt Engineering<br/>
+        ✅ Supervised Learning with Scikit-Learn
+      </sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
+      <b>Google — Coursera</b><br/>
+      <sub>
+        ✅ Foundations of Data Science<br/>
+        ✅ Data, Data Everywhere<br/>
+        ✅ Introduction to Git & GitHub<br/>
+        ✅ The Nuts & Bolts of ML<br/>
+        ✅ Start Writing Prompts like a Pro
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><br/></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Innervista-FF6B6B?style=for-the-badge&logo=academia&logoColor=white" /><br/>
+      <b>Innervista</b><br/>
+      <sub>✅ Machine Learning</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/UniAthena-4ECDC4?style=for-the-badge&logo=book&logoColor=white" /><br/>
+      <b>UniAthena</b><br/>
+      <sub>
+        ✅ Basics of ML<br/>
+        ✅ ML Algorithms
+      </sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Simplilearn-FFD700?style=for-the-badge&logo=simplilearn&logoColor=black" /><br/>
+      <b>Simplilearn</b><br/>
+      <sub>✅ Intro to Prompt Engineering</sub>
+    </td>
+  </tr>
+</table>
 
-### 🟠 Kaggle
-| Certificate | Badge |
-|---|---|
-| Intro to Machine Learning | ![](https://img.shields.io/badge/✔-Intro%20to%20Machine%20Learning-20BEFF?style=flat-square&logo=kaggle&logoColor=white) |
-| Pandas | ![](https://img.shields.io/badge/✔-Pandas-20BEFF?style=flat-square&logo=kaggle&logoColor=white) |
-| Data Cleaning | ![](https://img.shields.io/badge/✔-Data%20Cleaning-20BEFF?style=flat-square&logo=kaggle&logoColor=white) |
-| Intro to Deep Learning | ![](https://img.shields.io/badge/✔-Intro%20to%20Deep%20Learning-20BEFF?style=flat-square&logo=kaggle&logoColor=white) |
-| Deep Learning | ![](https://img.shields.io/badge/✔-Deep%20Learning-20BEFF?style=flat-square&logo=kaggle&logoColor=white) |
-
----
-
-### 🟢 DataCamp
-| Certificate | Badge |
-|---|---|
-| APIs in Python | ![](https://img.shields.io/badge/✔-APIs%20in%20Python-03EF62?style=flat-square&logo=datacamp&logoColor=white) |
-| Prompt Engineering | ![](https://img.shields.io/badge/✔-Prompt%20Engineering-03EF62?style=flat-square&logo=datacamp&logoColor=white) |
-| Supervised Learning with Scikit-Learn | ![](https://img.shields.io/badge/✔-Supervised%20Learning%20with%20Scikit--Learn-03EF62?style=flat-square&logo=datacamp&logoColor=white) |
-
----
-
-### 🔵 Google — Coursera
-| Certificate | Badge |
-|---|---|
-| Foundations of Data Science | ![](https://img.shields.io/badge/✔-Foundations%20of%20Data%20Science-4285F4?style=flat-square&logo=google&logoColor=white) |
-| Introduction to Git and GitHub | ![](https://img.shields.io/badge/✔-Introduction%20to%20Git%20and%20GitHub-4285F4?style=flat-square&logo=google&logoColor=white) |
-| The Nuts and Bolts of ML | ![](https://img.shields.io/badge/✔-The%20Nuts%20and%20Bolts%20of%20ML-4285F4?style=flat-square&logo=google&logoColor=white) |
-| Start Writing Prompts like a Pro | ![](https://img.shields.io/badge/✔-Start%20Writing%20Prompts%20like%20a%20Pro-4285F4?style=flat-square&logo=google&logoColor=white) |
-| Data, Data Everywhere | ![](https://img.shields.io/badge/✔-Data%2C%20Data%20Everywhere-4285F4?style=flat-square&logo=google&logoColor=white) |
-
----
-
-### ⚪ Other Platforms
-| Platform | Certificate | Badge |
-|---|---|---|
-| Innervista | Machine Learning | ![](https://img.shields.io/badge/✔-Machine%20Learning-6C63FF?style=flat-square&logo=academia&logoColor=white) |
-| UniAthena | ML Basics & Algorithms | ![](https://img.shields.io/badge/✔-ML%20Basics%20%26%20Algorithms-FF6B6B?style=flat-square&logo=academia&logoColor=white) |
-| Simplilearn | Intro to Prompt Engineering | ![](https://img.shields.io/badge/✔-Intro%20to%20Prompt%20Engineering-F97316?style=flat-square&logo=academia&logoColor=white) |
-
-</div>
+<p align="center">
+  <i>📜 30+ Certifications & Badges · All available upon request</i>
+</p>
 
 ---
 
