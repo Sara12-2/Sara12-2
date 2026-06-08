@@ -1,11 +1,11 @@
 <!--- Banner --->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,30&height=260&section=header&text=Sara%20Manzoor&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20CS%20Student&descAlignY=55&animation=fadeIn&fontColor=white" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,30&height=260&section=header&text=Sara%20Manzoor&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=55&animation=fadeIn&fontColor=white" width="100%"/>
 </p>
 
 <!--- Typing Effect --->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&width=850&lines=Full+Stack+Web+Developer+%7C+Flask+%2B+Python;AI%2FML+%7C+NLP+%7C+Computer+Vision+%7C+Deep+Learning;Building+Intelligent%2C+Full+Stack+Web+Applications;BS+Computer+Science+%7C+CGPA+4.0%2F4.0+%7C+University+of+Layyah;Web+Dev+Intern+%7C+ML+Intern+%7C+Open+to+Opportunities" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&width=850&lines=Full+Stack+Web+Developer+%7C+Flask+%2B+Python;AI%2FML+%7C+NLP+%7C+Computer+Vision+%7C+Deep+Learning;Building+Intelligent%2C+Full+Stack+Web+Applications;Web+Dev+Intern+%7C+ML+Intern+%7C+Open+to+Opportunities" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -16,42 +16,14 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a passionate **Computer Science student** at the University of Layyah, maintaining a perfect **4.0/4.0 CGPA** while actively building real-world expertise through internships in both **Web Development** and **Machine Learning**. I thrive at the intersection of intelligent systems and user-facing applications — crafting AI-powered, full-stack products that are not just functional, but genuinely impactful. Whether it's training a deep learning model or designing a seamless REST API, I bring the same dedication to every layer of the stack.
+I'm a passionate **Full Stack Developer** and **AI/ML Engineer** with hands-on experience in both web development and machine learning. I thrive at the intersection of intelligent systems and user-facing applications — crafting AI-powered, full-stack products that are functional, scalable, and impactful.
 
-<table>
-  <tr>
-    <td>🎓 <b>BS Computer Science</b></td>
-    <td>University of Layyah | Semester 4 | CGPA: 4.0/4.0</td>
-  </tr>
-  <tr>
-    <td>💼 <b>Web Development Intern</b></td>
-    <td>Full Stack — Current</td>
-  </tr>
-  <tr>
-    <td>💼 <b>ML Intern</b></td>
-    <td>Completed</td>
-  </tr>
-  <tr>
-    <td>🏆 <b>2nd Position in ICS</b></td>
-    <td>Dera Ghazi Khan Board</td>
-  </tr>
-  <tr>
-    <td>💻 <b>Chief Minister Merit Award</b></td>
-    <td>Laptop Distribution Scheme</td>
-  </tr>
-  <tr>
-    <td>🛵 <b>EZ Scooty Award</b></td>
-    <td>Merit-Based Scholarship</td>
-  </tr>
-  <tr>
-    <td>🏅 <b>Softec '26 Participant</b></td>
-    <td>FAST-NUCES, Lahore</td>
-  </tr>
-  <tr>
-    <td>📍 <b>Location</b></td>
-    <td>Punjab, Layyah, Pakistan</td>
-  </tr>
-</table>
+- 💼 **Web Development Intern** – Full Stack (Current)
+- 💼 **ML Intern** – Completed
+- 🏆 **2nd Position in ICS** – Dera Ghazi Khan Board
+- 💻 **Chief Minister Merit Award** – Laptop Distribution Scheme
+- 🛵 **EZ Scooty Award** – Merit-Based Scholarship
+- 📍 **Location:** Punjab, Layyah, Pakistan
 
 ---
 
@@ -147,13 +119,6 @@ I'm a passionate **Computer Science student** at the University of Layyah, maint
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-### 🌐 Computer Networking
-
-> Cisco Packet Tracer · Network Design & Topologies · Routing & Switching · IP Addressing · Networking Fundamentals
 
 ---
 
@@ -192,97 +157,40 @@ I'm a passionate **Computer Science student** at the University of Layyah, maint
 <div align="center">
 
 ### 🟠 &nbsp; Kaggle
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Intro%20to%20Machine%20Learning-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Pandas-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Data%20Cleaning-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Intro%20to%20Deep%20Learning-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Deep%20Learning-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| <img src="https://img.shields.io/badge/Intro%20to%20Machine%20Learning-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> | <img src="https://img.shields.io/badge/Pandas-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Data%20Cleaning-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> | <img src="https://img.shields.io/badge/Intro%20to%20Deep%20Learning-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Deep%20Learning-✔%20Completed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" colspan="2" /> |
 
 ---
 
 ### 🟢 &nbsp; DataCamp
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/APIs%20in%20Python-✔%20Completed-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Prompt%20Engineering-✔%20Completed-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Supervised%20Learning%20with%20Scikit--Learn-✔%20Completed-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| <img src="https://img.shields.io/badge/APIs%20in%20Python-✔%20Completed-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" /> | <img src="https://img.shields.io/badge/Prompt%20Engineering-✔%20Completed-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Supervised%20Learning%20with%20Scikit--Learn-✔%20Completed-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" colspan="2" /> |
 
 ---
 
 ### 🔵 &nbsp; Google — Coursera
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Foundations%20of%20Data%20Science-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Data%2C%20Data%20Everywhere-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Introduction%20to%20Git%20%26%20GitHub-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Nuts%20%26%20Bolts%20of%20ML-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Start%20Writing%20Prompts%20like%20a%20Pro-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| <img src="https://img.shields.io/badge/Foundations%20of%20Data%20Science-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" /> | <img src="https://img.shields.io/badge/Data%2C%20Data%20Everywhere-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Introduction%20to%20Git%20%26%20GitHub-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" /> | <img src="https://img.shields.io/badge/Nuts%20%26%20Bolts%20of%20ML-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Start%20Writing%20Prompts%20like%20a%20Pro-✔%20Completed-4285F4?style=for-the-badge&logo=google&logoColor=white" colspan="2" /> |
 
 ---
 
 ### ⚪ &nbsp; Other Platforms
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Innervista-Machine%20Learning%20✔-6C63FF?style=for-the-badge&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/UniAthena-ML%20Basics%20%26%20Algorithms%20✔-4ECDC4?style=for-the-badge&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Simplilearn-Intro%20to%20Prompt%20Engineering%20✔-FFD700?style=for-the-badge&logoColor=black" />
-    </td>
-  </tr>
-</table>
+| | | |
+|---|---|---|
+| <img src="https://img.shields.io/badge/Innervista-Machine%20Learning%20✔-6C63FF?style=for-the-badge&logoColor=white" /> | <img src="https://img.shields.io/badge/UniAthena-ML%20Basics%20%26%20Algorithms%20✔-4ECDC4?style=for-the-badge&logoColor=white" /> | <img src="https://img.shields.io/badge/Simplilearn-Intro%20to%20Prompt%20Engineering%20✔-FFD700?style=for-the-badge&logoColor=black" /> |
+
+</div>
 
 <br/>
 <i>📜 <b>30+ Certifications & Badges</b> · All available upon request</i>
-
-</div>
 
 ---
 
