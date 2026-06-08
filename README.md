@@ -1,11 +1,11 @@
 <!--- Banner --->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,30&height=260&section=header&text=Sara%20Manzoor&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=55&animation=fadeIn&fontColor=white" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,30&height=260&section=header&text=Sara%20Manzoor&fontSize=60&fontAlignY=35&desc=COO%20%40%20Dev%20Hatch%20Labs%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=55&animation=fadeIn&fontColor=white" width="100%"/>
 </p>
 
 <!--- Typing Effect --->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&width=850&lines=Full+Stack+Web+Developer+%7C+Flask+%2B+Python;AI%2FML+%7C+NLP+%7C+Computer+Vision+%7C+Deep+Learning;Building+Intelligent%2C+Full+Stack+Web+Applications;Web+Dev+Intern+%7C+ML+Intern+%7C+Open+to+Opportunities" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&width=850&lines=COO+%40+Dev+Hatch+Labs;Full+Stack+Web+Developer+%7C+Flask+%2B+Python;AI%2FML+%7C+NLP+%7C+Computer+Vision+%7C+Deep+Learning;Building+Intelligent%2C+Full+Stack+Web+Applications;Web+Dev+Intern+%7C+ML+Intern+%7C+Open+to+Opportunities" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -16,8 +16,9 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a passionate **Full Stack Developer** and **AI/ML Engineer** with hands-on experience in both web development and machine learning. I thrive at the intersection of intelligent systems and user-facing applications — crafting AI-powered, full-stack products that are functional, scalable, and impactful.
+I'm a passionate **Full Stack Developer** and **AI/ML Engineer** serving as **COO at Dev Hatch Labs**, where I lead operations and drive technical innovation. With hands-on experience in both web development and machine learning, I thrive at the intersection of intelligent systems and user-facing applications — crafting AI-powered, full-stack products that are functional, scalable, and impactful.
 
+- 👑 **COO at Dev Hatch Labs** – Leading Operations & Technical Strategy
 - 💼 **Web Development Intern** – Full Stack (Current)
 - 💼 **ML Intern** – Completed
 - 🏆 **2nd Position in ICS** – Dera Ghazi Khan Board
@@ -48,6 +49,7 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** with hands-on e
   <img src="https://img.shields.io/badge/🎯_Goal_Driven-0D1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀_Fast_Learner-0D1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💬_Communication-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👑_Leadership-0D1117?style=for-the-badge" />
 </p>
 
 ---
@@ -106,7 +108,7 @@ I'm a passionate **Full Stack Developer** and **AI/ML Engineer** with hands-on e
 ### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style-for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-Basics-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
