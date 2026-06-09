@@ -118,12 +118,16 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Streak & Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara12-2&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FFD700" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Sara12-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=CBD5E1" width="49%" />
 </p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sara12-2&theme=react-dark&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFD700&area=true&hide_border=true" width="95%" />
@@ -153,8 +157,6 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,30&height=120&section=footer" width="100%"/>
