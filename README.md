@@ -118,19 +118,15 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sara12-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=CBD5E1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara12-2&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=4ECDC4&dates=888888" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara12-2&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FFD700" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sara12-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=CBD5E1" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sara12-2&theme=react-dark&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFD700&area=true&hide_border=true" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sara12-2&theme=radical&no-frame=true&row=1&column=6&margin-w=10" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sara12-2&theme=react-dark&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFD700&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
