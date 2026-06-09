@@ -29,6 +29,20 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
 
 ---
 
+## 🎯 Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Chatbots-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Systems-4ECDC4?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Automation-34D399?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Personal_Branding-FFD700?style-for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
+> 🔥 Currently building AI-powered chatbots, LLM applications, RAG systems, and automation tools for real-world business solutions.
+
+---
+
 # 🚀 Featured Projects
 
 ## 🤖 AI / Machine Learning Projects
@@ -122,7 +136,7 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara12-2&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FFD700" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sara12-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=CBD5E1" width="49%" />
+  
 </p>
 
 ---
