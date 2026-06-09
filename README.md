@@ -1,11 +1,15 @@
-# 👩‍💻 Sara Manzoor
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Sara%20Manzoor&fontSize=60&fontAlignY=35&desc=COO%20%40%20Dev%20Hatch%20Labs%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,30&height=260&section=header&text=Sara%20Manzoor&fontSize=60&fontAlignY=35&desc=COO%20%40%20Dev%20Hatch%20Labs%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&animation=fadeIn&fontColor=white" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&width=900&lines=COO+%40+Dev+Hatch+Labs;Machine+Learning+Engineer;Computer+Vision+%26+NLP+Developer;Full+Stack+Web+Developer;Building+AI-Powered+Real-World+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=900&lines=COO+%40+Dev+Hatch+Labs;Machine+Learning+Engineer;Computer+Vision+%26+NLP+Developer;Full+Stack+Web+Developer;Building+AI-Powered+Real-World+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sara12-2&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Sara12-2?label=Followers&style=for-the-badge&logo=github&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/Sara12-2?label=Total%20Stars&style=for-the-badge&logo=github&color=ffb703" />
 </p>
 
 ---
@@ -16,10 +20,12 @@ I am **COO at Dev Hatch Labs**, a Machine Learning and Full Stack developer pass
 
 I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web technologies** to create scalable and practical systems.
 
-📍 Pakistan  
-💼 COO @ Dev Hatch Labs  
-💡 Focus: AI + Full Stack Development  
-🚀 Open to Freelance Opportunities & Collaborations  
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Pakistan-4ECDC4?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-COO%20%40%20Dev%20Hatch%20Labs-FF6B6B?style=flat-square&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-6C63FF?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Opportunities-34D399?style=flat-square&logo=upwork&logoColor=white" />
+</p>
 
 ---
 
@@ -27,161 +33,137 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
 
 ## 🤖 AI / Machine Learning Projects
 
-### 🛒 Smart Retail Shelf Monitoring (YOLOv8)
-Real-time object detection system for retail inventory tracking with live stock monitoring and alerts.
-
-**Tech:** Python, YOLOv8, OpenCV, Tkinter
-
----
-
-### 🚑 High-Cost Patient Prediction (ML Competition)
-Healthcare machine learning system predicting high-risk patients using ensemble models and feature engineering.
-
-**Tech:** Python, XGBoost, LightGBM, Scikit-learn, Pandas
-
----
-
-### 💼 AI Resume Screening System (NLP)
-Deep learning-based NLP system that classifies resumes into job categories using TF-IDF and Keras.
-
-**Tech:** Python, Keras, NLP, Streamlit, Scikit-learn
-
----
-
-### 🖐 ASL Sign Language Recognition (CNN)
-Computer vision system that recognizes ASL hand signs using CNN with data augmentation and GUI interface.
-
-**Tech:** TensorFlow, Keras, OpenCV, Tkinter
-
----
-
-### 💬 Sentiment Analysis (RNN)
-NLP model that classifies IMDB movie reviews as positive or negative using RNN architecture.
-
-**Tech:** TensorFlow, Keras, NLP
+| Project | Tech Stack |
+|---------|------------|
+| 🛒 **Smart Retail Shelf Monitoring** | Python, YOLOv8, OpenCV, Tkinter |
+| 🚑 **High-Cost Patient Prediction** | Python, XGBoost, LightGBM, Scikit-learn |
+| 💼 **AI Resume Screening System** | Python, Keras, NLP, Streamlit |
+| 🖐 **ASL Sign Language Recognition** | TensorFlow, Keras, OpenCV, Tkinter |
+| 💬 **Sentiment Analysis (RNN)** | TensorFlow, Keras, NLP |
 
 ---
 
 ## 🛒 Full Stack Applications
 
-### 🛒 Grocery Store (Full Stack)
-E-commerce web application with product management, authentication, and database integration.
-
-**Tech:** Flask, MySQL, JavaScript
-
----
-
-### 🎤 Digital Debate Judge
-Flask-based web application for debate evaluation and scoring system.
-
-**Tech:** Flask, SQLite, Bootstrap
-
----
-
-### 🌐 TechNest (React App)
-Modern React-based e-commerce frontend using Vite.
-
-**Tech:** React, Vite, JavaScript
+| Project | Tech Stack | Live Demo |
+|---------|------------|-----------|
+| 🛒 **Grocery Store** | Flask, MySQL, JavaScript | [Demo](https://grocery-store-website-orpin.vercel.app) |
+| 🎤 **Digital Debate Judge** | Flask, SQLite, Bootstrap | — |
+| 🌐 **TechNest** | React, Vite, JavaScript | — |
 
 ---
 
 ## 🎨 UI / Frontend Projects
 
-### 🍔 SwiftEats
-Food delivery landing page with modern UI design.
-
-**Tech:** HTML, CSS, JavaScript
-
----
-
-### 🏠 LuxEstate
-Real estate landing page with interactive UI and charts.
-
-**Tech:** HTML, Tailwind CSS, JavaScript, Chart.js
+| Project | Tech Stack | Live Demo |
+|---------|------------|-----------|
+| 🍔 **SwiftEats** | HTML, CSS, JavaScript | [Demo](https://restaurant-food-delivery-website-la.vercel.app) |
+| 🏠 **LuxEstate** | HTML, Tailwind CSS, JavaScript, Chart.js | [Demo](https://luxury-real-estate-landing-page-drk.vercel.app) |
 
 ---
 
 ## 📊 Dashboards
 
-### 📊 Apex Dashboard
-Appointment dashboard with calendar and analytics features.
-
-**Tech:** HTML, CSS, JavaScript, FullCalendar, Chart.js
-
----
-
-### 💰 AURUM Finance Dashboard
-Financial analytics dashboard with interactive charts.
-
-**Tech:** HTML, CSS, JavaScript, Chart.js
-
----
-
-### 🌦 Nimbus Weather App
-Weather dashboard using OpenWeather API.
-
-**Tech:** HTML, CSS, JavaScript, API Integration
+| Project | Tech Stack | Live Demo |
+|---------|------------|-----------|
+| 📊 **Apex Dashboard** | HTML, CSS, JS, FullCalendar, Chart.js | [Demo](https://appointment-booking-dashboard-ten.vercel.app) |
+| 💰 **AURUM Finance** | HTML, CSS, JS, Chart.js | [Demo](https://expense-tracer-dashboard.vercel.app) |
+| 🌦 **Nimbus Weather** | HTML, CSS, JS, OpenWeather API | — |
 
 ---
 
 # 🛠 Tech Stack
 
-## 🤖 AI / ML
-Machine Learning • Deep Learning • Computer Vision • NLP • YOLOv8
-
-## 💻 Programming
-Python • JavaScript
-
-## 🌐 Web Development
-Flask • React • HTML • CSS • Bootstrap
-
-## 📊 Data & ML Tools
-TensorFlow • Keras • Scikit-learn • Pandas • NumPy • OpenCV
-
-## 🗄 Databases
-MySQL • SQLite
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 # 💼 Open To Work
 
-✔ Freelance Projects  
-✔ Full Stack Development  
-✔ AI / ML Solutions  
-✔ Computer Vision Applications  
-✔ NLP-Based Systems  
+<p align="center">
+  <img src="https://img.shields.io/badge/✅-Freelance%20Projects-34D399?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✅-Full%20Stack%20Development-34D399?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✅-AI%2FML%20Solutions-34D399?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✅-Computer%20Vision-34D399?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✅-NLP%20Systems-34D399?style=for-the-badge" />
+</p>
 
 ---
 
 # 🏆 Achievements
 
-🥈 2nd Position – ICS (DG Khan Board)  
-💻 Chief Minister Merit Laptop Award  
-🛵 EZ Scooty Merit Scholarship  
-📜 30+ Certifications (Kaggle, Coursera, DataCamp, etc.)
+<p align="center">
+  <img src="https://img.shields.io/badge/🥈-2nd%20Position%20ICS-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻-Chief%20Minister%20Merit%20Award-4169E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛵-EZ%20Scooty%20Merit%20Scholarship-20B2AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📜-30%2B%20Certifications-FF6B6B?style=for-the-badge" />
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sara12-2&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sara12-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=CBD5E1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara12-2&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=4ECDC4&dates=888888" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sara12-2&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sara12-2&theme=react-dark&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFD700&area=true&hide_border=true" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sara12-2&theme=radical&no-frame=true&row=1&column=6&margin-w=10" width="90%" />
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/Sara12-2  
-- LinkedIn: (add your link)  
-- Email: (add your email)  
+<p align="center">
+  <a href="https://github.com/Sara12-2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sara-manzoor-3a8a56365">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/sara765">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Sara_34/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/saramanzoor342">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:saramanzoor76@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Building intelligent systems with AI + Full Stack development ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,30&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <i>⭐ Building intelligent systems with AI + Full Stack development ⭐</i>
 </p>
