@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,30&height=260&section=header&text=Sara%20Manzoor&fontSize=60&fontAlignY=35&desc=COO%20%40%20Dev%20Hatch%20Labs%20%7C%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&animation=fadeIn&fontColor=white" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,30&height=260&section=header&text=Sara%20Manzoor&fontSize=60&fontAlignY=35&desc=COO%20%40%20Dev%20Hatch%20Labs%20%7C%20CS%20Student%20%7C%20ML%20Engineer&descAlignY=55&animation=fadeIn&fontColor=white" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=900&lines=COO+%40+Dev+Hatch+Labs;Machine+Learning+Engineer;Computer+Vision+%26+NLP+Developer;Full+Stack+Web+Developer;Building+AI-Powered+Real-World+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&width=900&lines=COO+%40+Dev+Hatch+Labs;CS+Student+%7C+Machine+Learning+Engineer;Computer+Vision+%26+NLP+Developer;Full+Stack+Web+Developer+(Flask+%2B+React);Building+AI-Powered+Real-World+Systems;Python+%7C+TensorFlow+%7C+React" />
 </p>
 
 <p align="center">
@@ -61,11 +61,10 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
 
 | Project | Tech Stack | Live Demo |
 |---------|------------|-----------|
+| ☕ **Smart Cafeteria** | Flask, MySQL, Bootstrap, jQuery, Chart.js | [GitHub](https://github.com/Sara12-2/Smart_Cafeteria_Full_Stack_Website) |
 | 🛒 **Grocery Store** | Flask, MySQL, JavaScript | [Demo](https://grocery-store-website-orpin.vercel.app) |
 | 🎤 **Digital Debate Judge** | Flask, SQLite, Bootstrap | — |
 | 🌐 **TechNest** | React, Vite, JavaScript | — |
-
----
 
 ## 🎨 UI / Frontend Projects
 
