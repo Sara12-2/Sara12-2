@@ -43,42 +43,80 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
 
 ---
 
+## 🏆 Hackathon & ML Competition Projects
+
+### 🏆 Generative AI Hackathon 2026 — UoL AI Assistant
+**🏅 Top 10 out of 23+ Teams!**
+
+AI-powered virtual assistant for University of Layyah with bilingual support (English/Urdu) for students, applicants, and visitors.
+
+**Tech Stack:** `Flask` `Groq AI` `Llama 3 70B` `MySQL` `BeautifulSoup` `Vercel` `HTML/CSS/JS`
+
+**Key Features:**
+- 🎓 Role-Based Responses (Students, Applicants, Visitors)
+- 🌐 Bilingual Support (English + Urdu)
+- 🎤 Voice Input (Web Speech API)
+- 🔊 Text-to-Speech
+- 📴 Offline Mode with pre-loaded answers
+- 🔒 Rate Limiting (30 req/min)
+
+[🔗 Live Demo](https://uo-l-ai-assistant-hackathon-2026.vercel.app/) | [📁 Repository](https://github.com/Sara12-2/UoL-AI-Assistant-Hackathon-2026)
+
+---
+
+### 🚑 Softtec 2026 ML Competition — High-Cost Patient Prediction
+**🏅 Healthcare ML Challenge @ FAST NUCES Lahore**
+
+Predict whether a healthcare member will incur high medical costs (> $30,000) in the next calendar year using historical administrative data.
+
+**Tech Stack:** `Python` `LightGBM` `XGBoost` `Scikit-learn` `Pandas` `NumPy`
+
+**Key Features:**
+- Ensemble: LightGBM + XGBoost (Soft Voting)
+- Recall: 0.825 | F1: 0.616 at threshold 0.35
+- 10+ Engineered Features from multi-table data
+- Handled 11% positive class imbalance
+
+[📁 Repository](https://github.com/Sara12-2/High-Cost-Patient-Prediction)
+
+---
+
 ## 🚀 Featured Projects
 
-### 🤖 Smart Retail Shelf Monitoring
-**Tech Stack:** `Python` `YOLOv8` `OpenCV` `Tkinter`
-- Real-time product detection and inventory tracking system
-- Achieved **92% accuracy** on custom retail dataset
-- Automated stock monitoring with visual alerts
-- [📁 GitHub](https://github.com/Sara12-2/Smart_Retail) | [📊 Demo](https://github.com/Sara12-2/Smart_Retail)
-
-### 💼 AI Resume Screening System
-**Tech Stack:** `Python` `Keras` `NLP` `Streamlit`
-- Automated resume classification using deep learning
-- Reduced manual screening time by **70%**
-- Deployed with interactive Streamlit interface
-- [📁 GitHub](https://github.com/Sara12-2/Resume_Screening) | [🌐 Live Demo](https://github.com/Sara12-2/Resume_Screening)
+### 🎓 UoL AI Assistant
+**Tech Stack:** `Python` `LangChain` `RAG` `Streamlit` `ChromaDB`
+- AI assistant for University of Layyah using RAG architecture
+- Natural language query processing
+- Integration with university data
+- [📁 GitHub](https://github.com/Sara12-2/UoL-AI-Assistant-Hackathon-2026) | [🌐 Live Demo](https://uo-l-ai-assistant-hackathon-2026.vercel.app/)
 
 ### 🚑 High-Cost Patient Prediction
-**Tech Stack:** `Python` `XGBoost` `LightGBM` `Scikit-learn`
+**Tech Stack:** `Python` `XGBoost` `LightGBM` `Scikit-learn` `Pandas`
 - Predictive model for healthcare cost optimization
-- Achieved **85% accuracy** in identifying high-risk patients
-- Feature engineering with medical data
-- [📁 GitHub](https://github.com/Sara12-2/Patient_Prediction)
+- Achieved 0.825 recall in identifying high-risk patients
+- Ensemble approach with threshold tuning
+- [📁 GitHub](https://github.com/Sara12-2/High-Cost-Patient-Prediction)
 
-### 🛒 Smart Cafeteria (Full Stack)
+### 🛒 Smart Cafeteria
 **Tech Stack:** `Flask` `MySQL` `Bootstrap` `jQuery` `Chart.js`
 - Complete food ordering and management system
 - Real-time order tracking and analytics dashboard
 - Role-based access for admins and customers
-- [📁 GitHub](https://github.com/Sara12-2/Smart_Cafeteria_Full_Stack_Website) | [🌐 Live Demo](https://github.com/Sara12-2/Smart_Cafeteria_Full_Stack_Website)
+- [📁 GitHub](https://github.com/Sara12-2/Smart_Cafeteria_Full_Stack_Website)
 
 ### 🖐 ASL Sign Language Recognition
 **Tech Stack:** `TensorFlow` `Keras` `OpenCV` `Tkinter`
 - Real-time American Sign Language recognition
-- Trained on custom dataset with **88% accuracy**
+- Trained on custom dataset with 88% accuracy
 - User-friendly GUI for accessibility
 - [📁 GitHub](https://github.com/Sara12-2/ASL_Recognition)
+
+### 🤖 Smart Retail Shelf Monitoring
+**Tech Stack:** `Python` `YOLOv8` `OpenCV` `Tkinter`
+- Real-time product detection and inventory tracking
+- Achieved 92% accuracy on custom retail dataset
+- Automated stock monitoring with visual alerts
+- [📁 GitHub](https://github.com/Sara12-2/Smart_Retail)
 
 ---
 
@@ -88,10 +126,9 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
 
 | Project | Tech Stack | Status |
 |---------|------------|--------|
-| 🛒 **Smart Retail Shelf Monitoring** | Python, YOLOv8, OpenCV, Tkinter | ✅ Complete |
 | 🚑 **High-Cost Patient Prediction** | Python, XGBoost, LightGBM, Scikit-learn | ✅ Complete |
-| 💼 **AI Resume Screening System** | Python, Keras, NLP, Streamlit | ✅ Complete |
 | 🖐 **ASL Sign Language Recognition** | TensorFlow, Keras, OpenCV, Tkinter | ✅ Complete |
+| 🛒 **Smart Retail Shelf Monitoring** | Python, YOLOv8, OpenCV, Tkinter | ✅ Complete |
 | 💬 **Sentiment Analysis (RNN)** | TensorFlow, Keras, NLP | ✅ Complete |
 
 ### 🛒 Full Stack Applications
@@ -99,7 +136,6 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
 | Project | Tech Stack | Live Demo |
 |---------|------------|-----------|
 | ☕ **Smart Cafeteria** | Flask, MySQL, Bootstrap, jQuery, Chart.js | [GitHub](https://github.com/Sara12-2/Smart_Cafeteria_Full_Stack_Website) |
-| 🛒 **Grocery Store** | Flask, MySQL, JavaScript | [Demo](https://grocery-store-website-orpin.vercel.app) |
 | 🎤 **Digital Debate Judge** | Flask, SQLite, Bootstrap | — |
 | 🌐 **TechNest** | React, Vite, JavaScript | — |
 
@@ -139,6 +175,7 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF6F00?style=flat-square&logo=xgboost&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
@@ -173,7 +210,7 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
   <img src="https://img.shields.io/badge/🥈-2nd%20Position%20ICS-FFD700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/💻-Chief%20Minister%20Merit%20Award-4169E1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🛵-EZ%20Scooty%20Merit%20Scholarship-20B2AA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📜-30%2B%20Certifications-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆-2%20Hackathon%20Wins-FF6B6B?style=for-the-badge" />
 </p>
 
 ---
@@ -224,26 +261,10 @@ I specialize in combining **AI (ML, NLP, Computer Vision)** with modern **web te
 
 ---
 
-## ☕ Support My Work
-
-If you find my projects helpful, consider supporting my work!
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/saramanzoork">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,30&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
   <i>⭐ Building intelligent systems with AI + Full Stack development ⭐</i>
-</p>
-
-<p align="center">
-  <i>💡 "Code is poetry. AI is magic. Together, they change the world."</i>
 </p>
