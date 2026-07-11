@@ -312,8 +312,8 @@ Full-stack grocery delivery platform with admin dashboard and analytics.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sara12-2&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1A1F13&title_color=BFCC94&icon_color=8A9A5B&text_color=E8E8D8"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sara12-2&layout=compact&hide_border=true&bg_color=1A1F13&title_color=BFCC94&text_color=E8E8D8"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sara12-2&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1A1F13&title_color=BFCC94&icon_color=8A9A5B&text_color=E8E8D8"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara12-2&layout=compact&hide_border=true&bg_color=1A1F13&title_color=BFCC94&text_color=E8E8D8"/>
 </p>
 
 <p align="center">
