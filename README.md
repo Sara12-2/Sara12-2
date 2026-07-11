@@ -48,7 +48,8 @@ Bilingual (English/Urdu) AI assistant for University of Layyah — Top 10 hackat
 - Bilingual support with offline fallback mode
 - 🏅 Top 10 out of 23+ teams
 
-[🔗 Live Demo](https://uo-l-ai-assistant-hackathon-2026.vercel.app/) · [📁 GitHub](https://github.com/Sara12-2/UoL-AI-Assistant-Hackathon-2026)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6B8E23?style=for-the-badge)](https://uo-l-ai-assistant-hackathon-2026.vercel.app/)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/UoL-AI-Assistant-Hackathon-2026)
 
 </td>
 <td width="50%" valign="top">
@@ -57,7 +58,7 @@ Bilingual (English/Urdu) AI assistant for University of Layyah — Top 10 hackat
 Binary classification model predicting high-cost healthcare members (>$30,000/year).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square&logo=xgboost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
 ![LightGBM](https://img.shields.io/badge/LightGBM-4285F4?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
@@ -66,12 +67,30 @@ Binary classification model predicting high-cost healthcare members (>$30,000/ye
 - Recall 0.825 · F1 0.616 at threshold 0.35
 - 🏅 Softtec 2026 ML Competition, FAST NUCES
 
-[📁 GitHub](https://github.com/Sara12-2/High-Cost-Patient-Prediction)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/High_Cost_Patient_prediction_Softtec_Competition_Project)
 
 </td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
+
+### 🏠 House Price Prediction — Kaggle
+Regression model predicting residential sale prices, ranked on the global Kaggle leaderboard.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Highlights:**
+- 🎯 Kaggle Global Rank #2,199 · RMSLE 0.13710
+- 79 input features + engineered "TotalSF" feature
+- Full EDA + feature engineering pipeline
+
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/Kaggle_Competition_House_price_prediction)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🛒 Smart Retail Shelf Monitoring
@@ -87,9 +106,12 @@ Real-time product detection and low-stock alerts using computer vision.
 - 92% accuracy on custom retail dataset
 - Automated low-stock GUI alerts
 
-[📁 GitHub](https://github.com/Sara12-2/Smart_Retail)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/Smart_Retail_Shelf_Monitoring_with_YOLOv8)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🖐 ASL Sign Language Recognition
@@ -105,7 +127,25 @@ Deep learning CNN model recognizing American Sign Language hand signs.
 - 88% recognition accuracy
 - Accessibility-focused GUI (Tkinter)
 
-[📁 GitHub](https://github.com/Sara12-2/ASL_Recognition)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/ASL_Sign_Language_Recognition)
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 Credit Card Fraud Detection
+ML model detecting fraudulent transactions on highly imbalanced data.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SMOTE](https://img.shields.io/badge/SMOTE-8B9A6B?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Highlights:**
+- SMOTE oversampling for class imbalance
+- Logistic Regression + Random Forest comparison
+- Full precision/recall/F1/ROC-AUC evaluation
+
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/Credit-Card-Fraud-Detection)
 
 </td>
 </tr>
@@ -126,7 +166,7 @@ Full stack food ordering &amp; management system with live analytics.
 - Real-time order tracking + analytics dashboard
 - Coupons, reviews, cart management
 
-[📁 GitHub](https://github.com/Sara12-2/Smart_Cafeteria_Full_Stack_Website)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/Smart_Cafeteria_Full_Stack_Website)
 
 </td>
 <td width="50%" valign="top">
@@ -143,12 +183,32 @@ Premium React e-commerce web app with glassmorphism UI and full shopping flow.
 - Dark/light mode with glassmorphism UI
 - Built with React + Vite
 
-[🔗 Live Demo](https://tech-nest-ecommerce.vercel.app/) · [📁 GitHub](https://github.com/Sara12-2/TechNest_Ecommerce_Website)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6B8E23?style=for-the-badge)](https://tech-nest-ecommerce.vercel.app/)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/TechNest_Ecommerce_Website)
 
 </td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
+
+### 🥾 BuddyInHills — Trip Discovery App
+Responsive React app to explore, search, filter &amp; save travel packages.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Highlights:**
+- Debounced search + category filtering
+- Wishlist persistence via LocalStorage
+- Fully responsive trip detail pages
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6B8E23?style=for-the-badge)](https://trip-discovery-app-e4qv.vercel.app/)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/Trip-discovery-app)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🛒 Grocery Store Website
@@ -164,23 +224,18 @@ Full-stack grocery delivery platform with admin dashboard and analytics.
 - Admin dashboard with smart analytics
 - Delivery slot selection system
 
-[📁 GitHub](https://github.com/Sara12-2/Grocery_Store_Website-)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/Grocery_Store_Website-)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+<td colspan="2" align="center" valign="top">
 
 ### 🎓 More on GitHub
-32+ projects across **AI/ML, Full Stack, Computer Vision &amp; NLP** — including Kaggle competitions, RAG systems, and production dashboards.
+32+ projects across **AI/ML, Full Stack, Computer Vision &amp; NLP** — including CIFAR-10/MNIST CNNs, RNN sentiment analysis, reinforcement learning, resume screening, and market basket analysis.
 
-![Explore](https://img.shields.io/badge/Explore_All_Projects-181717?style=flat-square&logo=github&logoColor=white)
-
-**Includes:**
-- CIFAR-10 &amp; MNIST CNN classifiers
-- Sentiment analysis (RNN + NLP)
-- Reinforcement learning (Q-Learning)
-- Dashboards &amp; landing pages
-
-[📁 View Full Repository List](https://github.com/Sara12-2?tab=repositories)
+[![Explore All Repositories](https://img.shields.io/badge/📁_Explore_All_32%2B_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2?tab=repositories)
 
 </td>
 </tr>
@@ -194,30 +249,39 @@ Full-stack grocery delivery platform with admin dashboard and analytics.
   <tr>
     <td align="center" valign="top" width="50%">
       <strong>⚡ Frontend</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
     </td>
     <td align="center" valign="top" width="50%">
       <strong>🛠️ Backend &amp; Databases</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,flask,mysql,sqlite" />
+      <img src="https://skillicons.dev/icons?i=py,flask,mysql,sqlite" /><br/>
+      <img src="https://img.shields.io/badge/-REST_APIs-8B9A6B?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
       <strong>🤖 AI / Machine Learning</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv" /><br/>
+      <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv" /><br/>
       <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
       <img src="https://img.shields.io/badge/-XGBoost-EB5E28?style=flat-square"/>
       <img src="https://img.shields.io/badge/-LightGBM-4285F4?style=flat-square"/>
       <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/-SMOTE-8B9A6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-NLP-8B9A6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Computer_Vision-8B9A6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-YOLOv8-00BFFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Deep_Learning-8B5CF6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Matplotlib%2FSeaborn-8B9A6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-EDA-8B9A6B?style=flat-square"/>
     </td>
     <td align="center" valign="top" width="50%">
       <strong>☁️ Tools &amp; Platforms</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" /><br/>
-      <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode" /><br/>
+      <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1E90FF?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -226,15 +290,38 @@ Full-stack grocery delivery platform with admin dashboard and analytics.
 
 ---
 
+## 📜 Certifications
+
+<p align="center">
+<img src="https://img.shields.io/badge/Google-The_Nuts_%26_Bolts_of_ML-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-Foundations_of_Data_Science-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Kaggle-Intro_to_Deep_Learning-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-Intro_to_Machine_Learning-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/DataCamp-Supervised_Learning_w%2F_Scikit--learn-05192D?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS-Intro_to_Cloud_Computing-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/FAST_NUCES-Softtec_ML_Competition-8B9A6B?style=flat-square"/>
+</p>
+
+<p align="center"><i>26 certifications total across Google, Kaggle, DataCamp &amp; more — <a href="https://www.linkedin.com/in/sara-manzoor-3a8a56365/details/certifications/">see full list on LinkedIn</a></i></p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sara12-2&show_icons=true&count_private=true&hide_border=true&bg_color=1A1F13&title_color=BFCC94&icon_color=8A9A5B&text_color=E8E8D8"/>
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sara12-2&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1A1F13&title_color=BFCC94&icon_color=8A9A5B&text_color=E8E8D8"/>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sara12-2&layout=compact&hide_border=true&bg_color=1A1F13&title_color=BFCC94&text_color=E8E8D8"/>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sara12-2&hide_border=true&background=1A1F13&stroke=6B8E23&ring=808000&fire=BFCC94&currStreakLabel=BFCC94&sideLabels=E8E8D8&sideNums=BFCC94&dates=8A9A5B" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sara12-2&hide_border=true&background=1A1F13&border=1A1F13&stroke=6B8E23&ring=808000&fire=D4AF37&currStreakNum=F5F1E3&currStreakLabel=BFCC94&sideNums=F5F1E3&sideLabels=BFCC94&dates=8A9A5B" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sara12-2&bg_color=1A1F13&color=BFCC94&line=808000&point=F5F1E3&area=true&hide_border=true" />
 </p>
 
 ---
