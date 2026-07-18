@@ -192,21 +192,28 @@ Premium React e-commerce web app with glassmorphism UI and full shopping flow.
 <tr>
 <td width="50%" valign="top">
 
-### 🥾 BuddyInHills — Trip Discovery App
-Responsive React app to explore, search, filter &amp; save travel packages.
+### 🤖 StockFlow AI — AI-Powered Inventory Management SaaS
+Full-stack inventory management system with AI forecasting, natural language assistant, and real-time alerts for growing e-commerce teams.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3-000000?style=flat-square&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Highlights:**
-- Debounced search + category filtering
-- Wishlist persistence via LocalStorage
-- Fully responsive trip detail pages
+- AI-powered demand forecasting with Groq
+- Natural language inventory assistant
+- Smart reorder recommendations
+- Real-time low-stock & new-order alerts
+- Complete order management with stock restoration
+- Role-based access control (Admin + Staff)
+- Fully responsive with dark mode
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6B8E23?style=for-the-badge)](https://trip-discovery-app-e4qv.vercel.app/)
-[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/Trip-discovery-app)
+[![Watch Demo](https://img.shields.io/badge/🔗_Watch_Demo-6B8E23?style=for-the-badge)](https://drive.google.com/file/d/1HHUJQYC6oSzfxB-GVjuexE-uqA_HF_8g/view?usp=sharing)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/Full-Stack-Inventory-Management-SaaS-with-AI-Forecasting)
 
 </td>
 <td width="50%" valign="top">
