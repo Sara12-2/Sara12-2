@@ -29,7 +29,7 @@ COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Comp
 
 ---
 
-## 🚀 Featured Projects — AI / ML
+##  Featured Projects — AI / ML
 
 <table>
 <tr>
