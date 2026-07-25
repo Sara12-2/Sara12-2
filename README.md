@@ -264,6 +264,42 @@ COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Comp
 
 <tr>
 <td colspan="2" valign="top">
+<tr>
+<td width="50%" valign="top">
+
+### 🛍 TechNest — E-Commerce Store
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Problem:** Small e-commerce businesses need a modern, engaging storefront to compete with bigger brands, but generic templates look dated and don't convert.
+
+**Solution:** A React + Vite storefront with a glassmorphism UI, real-time search/category filtering, cart + wishlist management, and a persistent dark/light theme.
+
+**Result:** Full checkout flow with order confirmation, cart/wishlist persisted via localStorage
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6B8E23?style=for-the-badge)](https://tech-nest-ecommerce.vercel.app/)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/TechNest_Ecommerce_Website)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 SwiftEats — Food Delivery Landing Page
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Problem:** Restaurant startups need a premium, trustworthy landing page to convert visitors into orders, without the cost of a full custom build.
+
+**Solution:** A fully responsive landing page with live menu filtering, an animated FAQ accordion, cart-add simulation with toast feedback, and scroll-triggered animations via the Intersection Observer API.
+
+**Result:** Sticky nav with active-section highlighting, smooth-scroll navigation throughout
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-6B8E23?style=for-the-badge)](https://restaurant-food-delivery-website-la.vercel.app/)
+[![GitHub](https://img.shields.io/badge/📁_Source_Code-333D1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sara12-2/Swifteats_Premium_food_delievery_landing_page)
+
+</td>
+</tr>
 
 ### 🏰 LuxEstate — Real Estate Landing Page
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
