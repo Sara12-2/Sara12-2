@@ -1,22 +1,34 @@
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:808000,50:6B8E23,100:333D1A&height=220&section=header&text=Sara%20Manzoor&fontSize=55&fontAlignY=35&desc=AI-Powered%20Full%20Stack%20Developer%20%7C%20ML%20Engineer&descAlignY=55&animation=fadeIn&fontColor=F5F1E3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1A1F13,40:556B2F,70:808000,100:D4AF37&text=Sara%20Manzoor&fontColor=F5F1E3&fontSize=56&fontAlignY=36&desc=AI-Powered%20Full%20Stack%20Developer%20•%20Machine%20Learning%20Engineer&descSize=18&descAlignY=57&animation=fadeIn" width="100%"/>
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A9A5B&center=true&width=800&lines=AI-Powered+Full+Stack+Developer;Machine+Learning+Engineer;Building+Real-World+AI+Systems;Python+%7C+TensorFlow+%7C+React+%7C+Next.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=BFCC94&center=true&vCenter=true&width=900&lines=AI-Powered+Full+Stack+Developer;Machine+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+LLMs;React+%7C+Next.js+%7C+Flask+%7C+Python;Building+Production-Ready+AI+Applications" />
 </p>
 
+<!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sara12-2&label=Profile+Views&color=6B8E23&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Sara12-2?label=Followers&style=flat-square&logo=github&color=6B8E23" />
-  <img src="https://img.shields.io/github/stars/Sara12-2?label=Stars&style=flat-square&logo=github&color=808000" />
+  <img src="https://komarev.com/ghpvc/?username=Sara12-2&label=Profile+Views&color=6B8E23&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Sara12-2?label=Followers&style=for-the-badge&logo=github&color=6B8E23"/>
+  <img src="https://img.shields.io/badge/Open%20to-AI%20%26%20ML%20Opportunities-808000?style=for-the-badge"/>
 </p>
 
+<!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sara-manzoor-3a8a56365"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:saramanzoor76@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/sara765"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Sara_34/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/sara-manzoor-3a8a56365">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saramanzoor76@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/sara765">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Sara_34/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
