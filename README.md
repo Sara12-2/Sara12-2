@@ -389,7 +389,13 @@ COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Comp
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sara12-2&theme=gruvbox"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sara12-2&theme=gruvbox"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sara12-2&theme=gruvbox"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sara12-2&label=Profile+Views&color=6B8E23&style=for-the-badge"/>
@@ -402,13 +408,8 @@ COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Comp
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sara12-2&theme=zenburn"/>
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sara12-2&bg_color=1A1F13&color=BFCC94&line=808000&point=F5F1E3&area=true&hide_border=true"/>
 </p>
-
 
 
 ---
