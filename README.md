@@ -386,22 +386,17 @@ COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Comp
 
 ---
 
-## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sara12-2&show_icons=true&theme=transparent&hide_border=true&title_color=BFCC94&icon_color=D4AF37&text_color=F5F1E3&bg_color=1A1F13&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Sara12-2&theme=transparent&hide_border=true&background=1A1F13&stroke=6B8E23&ring=D4AF37&fire=D4AF37&currStreakNum=F5F1E3&currStreakLabel=BFCC94&sideNums=F5F1E3&sideLabels=BFCC94&dates=8A9A5B" />
+  <img width="49%" src="https://YOUR_VERCEL_DOMAIN/api?username=Sara12-2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1F13&title_color=BFCC94&text_color=F5F1E3&icon_color=D4AF37&border_radius=12&rank_icon=github" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=Sara12-2&hide_border=true&background=1A1F13&border=1A1F13&stroke=6B8E23&ring=D4AF37&fire=D4AF37&currStreakNum=F5F1E3&currStreakLabel=BFCC94&sideNums=F5F1E3&sideLabels=BFCC94&dates=8A9A5B" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara12-2&layout=compact&theme=transparent&hide_border=true&title_color=BFCC94&text_color=F5F1E3&bg_color=1A1F13&langs_count=8" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sara12-2&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sara12-2&bg_color=1A1F13&color=BFCC94&line=808000&point=F5F1E3&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sara12-2&bg_color=1A1F13&color=F5F1E3&line=808000&point=D4AF37&area=true&area_color=6B8E23&title_color=BFCC94&hide_border=true" />
 </p>
 
 ---
