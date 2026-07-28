@@ -389,14 +389,27 @@ COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Comp
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Sara12-2&hide_border=true&background=1A1F13&border=1A1F13&stroke=6B8E23&ring=D4AF37&fire=D4AF37&currStreakNum=F5F1E3&currStreakLabel=BFCC94&sideNums=F5F1E3&sideLabels=BFCC94&dates=8A9A5B" />
+  <img src="https://komarev.com/ghpvc/?username=Sara12-2&label=Profile+Views&color=6B8E23&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Sara12-2?style=for-the-badge&color=6B8E23"/>
+  <img src="https://img.shields.io/github/stars/Sara12-2?affiliations=OWNER&style=for-the-badge&color=808000"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sara12-2&theme=gruvbox"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sara12-2&theme=zenburn"/>
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sara12-2&bg_color=1A1F13&color=BFCC94&line=808000&point=F5F1E3&area=true&hide_border=true"/>
 </p>
+
+
 
 ---
 
