@@ -5,14 +5,14 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=BFCC94&center=true&vCenter=true&width=900&lines=AI-Powered+Full+Stack+Developer;Machine+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+LLMs;React+%7C+Next.js+%7C+Flask+%7C+Python;Building+Production-Ready+AI+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=BFCC94&center=true&vCenter=true&width=900&lines=AI-Powered+Full+Stack+Developer;Machine+Learning+Engineer;RAG+Systems+%7C+AI+SaaS+%7C+LLMs;React+%7C+Next.js+%7C+Flask+%7C+Python;Building+Production-Ready+AI+Applications" />
 </p>
 
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sara12-2&label=Profile+Views&color=6B8E23&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/Sara12-2?label=Followers&style=for-the-badge&logo=github&color=6B8E23"/>
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%26%20ML%20Opportunities-808000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20%26%20AI%2FML%20Roles-808000?style=for-the-badge"/>
 </p>
 
 <!-- Social Links -->
@@ -35,13 +35,13 @@
 
 ## 👋 About Me
 
-COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Computer Vision, RAG/LLMs)** meets modern **full stack web development**. I turn real-world problems into working, deployed solutions — not just notebooks.
+COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, RAG/LLMs)** meets modern **full stack web development**. I turn real-world problems into working, deployed solutions — not just notebooks.
 
 🔭 **Currently Exploring:** Agentic AI &nbsp;•&nbsp; LLM Fine-Tuning &nbsp;•&nbsp; Production Deployment (Docker/CI-CD)
 
 ---
 
-##  Featured Projects — AI / ML
+## Featured Projects — AI / ML
 
 <table>
 <tr>
@@ -68,6 +68,7 @@ COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Comp
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/Sentence_Transformers-8B9A6B?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq_Llama3-F55036?style=flat-square&logo=meta&logoColor=white)
 
 **Problem:** Reading long research papers to find one fact is slow, and asking a general LLM instead risks a confident, hallucinated answer with no way to verify it.
@@ -161,7 +162,7 @@ COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Comp
 
 ---
 
-##  Featured Projects — Full Stack & Web
+## Featured Projects — Full Stack & Web
 
 <table>
 <tr>
@@ -169,6 +170,7 @@ COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Comp
 
 ### 🎟 EventSphere Pro
 ![React](https://img.shields.io/badge/React-19-149ECA?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -275,8 +277,6 @@ COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Comp
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
-<tr>
 <td width="50%" valign="top">
 
 ### 🛍 TechNest — E-Commerce Store
@@ -312,6 +312,9 @@ COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Comp
 
 </td>
 </tr>
+
+<tr>
+<td colspan="2" valign="top">
 
 ### 🏰 LuxEstate — Real Estate Landing Page
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -397,7 +400,6 @@ COO at **DevHatch Labs**, building intelligent systems where **AI (ML, NLP, Comp
 <p align="center"><i>🌱 Currently learning: Agentic AI (LangGraph) &nbsp;·&nbsp; Hugging Face fine-tuning (LoRA/PEFT)</i></p>
 
 ---
-
 
 ## 📊 GitHub Analytics
 
